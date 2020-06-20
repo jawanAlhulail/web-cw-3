@@ -1,0 +1,25 @@
+.img{
+    display:block;
+}
+.ul{
+    list-style-type:none;
+    padding:0;
+}
+.blue{
+    background-color:blue;
+}
+.red{
+    background-color:red;
+}
+.green{
+    background-color:green;
+}
+table{
+    border-collapse: collapse;
+    border:coral
+
+    }
+    th,td{
+        border: 1xp solid black;
+    }
+    
